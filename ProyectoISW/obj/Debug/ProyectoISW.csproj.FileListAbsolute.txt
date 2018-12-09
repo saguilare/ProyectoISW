@@ -1,0 +1,27 @@
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/ProyectoISW.dll
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/ProyectoISW.pdb
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/Newtonsoft.Json.dll
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/System.Net.Http.Formatting.dll
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/System.Web.Http.dll
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/System.Web.Http.WebHost.dll
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/System.Net.Http.Formatting.xml
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/System.Web.Http.xml
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/System.Web.Http.WebHost.xml
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/bin/Newtonsoft.Json.xml
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/obj/Debug/ProyectoISW.csproj.CoreCompileInputs.cache
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/obj/Debug/ProyectoISW.dll
+/Users/saguilar/Documents/ProyectoISW/ProyectoISW/obj/Debug/ProyectoISW.pdb
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\ProyectoISW.dll.config
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\ProyectoISW.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\ProyectoISW.pdb
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.pdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D03AE5D3-5041-40A1-BD5A-6E1CC6DBC52C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProyectoISW/Controllers/PrecioController.cs">
+    <Files>
+      <File FileName="ProyectoISW/Controllers/CasaController.cs" Line="10" Column="25" />
+      <File FileName="ProyectoISW/Controllers/PrecioController.cs" Line="10" Column="31" />
+      <File FileName="ProyectoISW/Controllers/HabitacionController.cs" Line="9" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoISW" expanded="True" selected="True">
+            <Node name="ProyectoISW" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProyectoISW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

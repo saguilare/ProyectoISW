@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\ProyectoISW.dll.config
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\ProyectoISW.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\ProyectoISW\ProyectoISW\obj\Release\ProyectoISW.dll
